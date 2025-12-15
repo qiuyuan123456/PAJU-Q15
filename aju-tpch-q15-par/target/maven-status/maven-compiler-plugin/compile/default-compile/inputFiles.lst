@@ -1,0 +1,10 @@
+/home/qiuyuan/project/aju-tpch-q15-par/src/main/java/org/example/aju/SupplierParseFunction.java
+/home/qiuyuan/project/aju-tpch-q15-par/src/main/java/org/example/aju/TpchAjuJobQ15.java
+/home/qiuyuan/project/aju-tpch-q15-par/src/main/java/org/example/aju/LocalMaxAggregation.java
+/home/qiuyuan/project/aju-tpch-q15-par/src/main/java/org/example/aju/Q15Plan.java
+/home/qiuyuan/project/aju-tpch-q15-par/src/main/java/org/example/aju/AjuTypes.java
+/home/qiuyuan/project/aju-tpch-q15-par/src/main/java/org/example/aju/GlobalMaxAggregation.java
+/home/qiuyuan/project/aju-tpch-q15-par/src/main/java/org/example/aju/LineitemParseFunction.java
+/home/qiuyuan/project/aju-tpch-q15-par/src/main/java/org/example/aju/AcyclicJoinProcessFunction.java
+/home/qiuyuan/project/aju-tpch-q15-par/src/main/java/org/example/aju/Q15Aggregation.java
+/home/qiuyuan/project/aju-tpch-q15-par/src/main/java/org/example/aju/AcyclicJoinKeySelector.java
