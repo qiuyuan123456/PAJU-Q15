@@ -16,7 +16,6 @@ mkdir -p ~/tpch-data005 \
 && cp -r ~/dists.dss ~/tpch-data005/ \
 && chmod +x ~/tpch-data005/dbgen
 ```
-## Run the PAJU project
 
 ### Step 2: Generate TPC-H Data
 
@@ -26,12 +25,13 @@ Run `dbgen` with the specified scale factor
 cd ~/tpch-data005 \
 && ./dbgen -s 0.05 -f
 ```
-### step 3: Package Project
+## Run the PAJU project
+### step 1: Package Project
 
 ```bash
 mvn clean package -DskipTests
 ```
-### step 4: Submit the Project to Flink
+### step 2: Submit the Project to Flink
 
 Start the Flink Cluster
 ```bash
