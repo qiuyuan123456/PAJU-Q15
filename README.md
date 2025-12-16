@@ -12,8 +12,8 @@ Create a new directory for the target scale factor and copy the `dbgen` binary a
 
 ```bash
 mkdir -p ~/tpch-data005 \
-&& cp ~/tpch-data1/dbgen ~/tpch-data005/ \
-&& cp -r ~/tpch-data1/dists ~/tpch-data005/ \
+&& cp ~/dbgen ~/tpch-data005/ \
+&& cp -r ~/dists.dss ~/tpch-data005/ \
 && chmod +x ~/tpch-data005/dbgen
 ```
 ## Run the PAJU project
